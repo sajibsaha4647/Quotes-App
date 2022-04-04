@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Sajib/AndroidStudioProjects/QuetsApp2/app/src/main/res/drawable/card_bg.xml" value="0.1455" />
         <entry key="..\:/Users/Sajib/AndroidStudioProjects/QuetsApp2/app/src/main/res/drawable/gradientbg.xml" value="0.183" />
-        <entry key="..\:/Users/Sajib/AndroidStudioProjects/QuetsApp2/app/src/main/res/layout/activity_main.xml" value="0.1890625" />
+        <entry key="..\:/Users/Sajib/AndroidStudioProjects/QuetsApp2/app/src/main/res/layout/activity_main.xml" value="0.2" />
       </map>
     </option>
   </component>
